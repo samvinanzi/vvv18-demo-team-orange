@@ -1,3 +1,7 @@
+*This code has been developed as an entry for the Humanoid Robot Programming competition at the VVV18 iCub winter school. Despite having been awarded the 1st prize, it is not 100% complete and lacks the integration of a few components. It may be updated and completed in the future, but right now it is mostly to be used as a reference.*
+
+---
+
 # VVV18 ORANGE TEAM
 
 - 📚 [**Project description**](https://github.com/vvv-school/vvv18/wiki/Team-contest)
